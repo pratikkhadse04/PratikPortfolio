@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ScrollToTop from "../ScrollToTop/ScrollToTop";
 import ProjectCard from "./ProjectCards";
 
-import PrivateChat from "../../Assets/Projects/PrivateChat.png";
-import Portfolio from "../../Assets/Projects/Portfolio.png";
+//import PrivateChat from "../../Assets/Projects/PrivateChat.png";
+//import Portfolio from "../../Assets/Projects/Portfolio.png";
 import Ecart from "../../Assets/Projects/ecart.png";
-import ExpenseTracker from "../../Assets/Projects/ExpenseTracker.png";
+//import ExpenseTracker from "../../Assets/Projects/ExpenseTracker.png";
 
 import "./project.css";
 
